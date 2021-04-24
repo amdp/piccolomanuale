@@ -1,6 +1,10 @@
 <template>
   <b-container>
     <h1>V Umani</h1><br><br><br>
+    <h1>
+      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/6" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <div style="margin-left: 20%; margin-right: 20%; width: 60%; text-align: justify; font-size: 18;">
       Fermiamoci un attimo. Le premesse fatte son tante, è il momento di parlare di noi umani.<br>
       Chi siamo?<br>
@@ -31,7 +35,10 @@
       Ti sdraierai rilassato e penserai. E quando penserai, noterai che il tuo pensiero parla. Riesci a pensare a qualcosa senza nominarlo?
 
     </div><br><br><br><br><br><br>
-    <h1><a href="3.html" style="text-decoration: none;"><</a> <a href="4.html" style="text-decoration: none;">></a></h1>
+    <h1>
+      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/6" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <h5><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA International License</a></h5>
   </b-container>
 <template>

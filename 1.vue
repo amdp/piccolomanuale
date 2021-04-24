@@ -1,6 +1,10 @@
 <template>
   <b-container>
     <h1>I Esistenza</h1><br><br><br>
+    <h1>
+      <nuxt-link to="/piccolomanuale/title" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <div style="margin-left: 25%; margin-right: 25%; width: 50%; text-align: justify; font-size: 18;">
       La cooperazione è un fenomeno molto complesso.<br>
       Per poter capire di che cosa si tratta, bisognerà partire dalla radice più profonda dell'essere.<br>
@@ -58,7 +62,10 @@
       <br>
       <p style="text-align: right;">Alessandro Merletti De Palo</p>
     </div><br><br><br>
-    <h1><a href="bianca.html" style="text-decoration: none;"><</a> <a href="2.html" style="text-decoration: none;">></a></h1>
+    <h1>
+      <nuxt-link to="/piccolomanuale/title" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <h5><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA International License</a></h5>
   </b-container>
 <template>

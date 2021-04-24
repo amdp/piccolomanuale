@@ -1,6 +1,10 @@
 <template>
   <b-container>
     <h1>II Relazioni</h1><br><br><br>
+    <h1>
+      <nuxt-link to="/piccolomanuale/1" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/3" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <div style="margin-left: 20%; margin-right: 20%; width: 60%; text-align: justify; font-size: 18;">
       Questo capitolo piacerà molto alle persone "sensibili" o a quelle che oggi vengono dette "connesse al femminile", anche se a questo punto rivendicherei volentieri di essere maschio, maschile, "connesso al femminile" e anche molto sensibile. E potrebbe piacere anche alle persone dette "romantiche", termine che quando hanno usato su di me mi ha sempre catapultato con l'immaginazione in un ristorante becero, cupo e beige, con dei tavoli rossi laccati. Tovaglie bianche inamidate, stirate male, ancora con le pieghe, che mostravano imperfezioni e cuciture imprecise. Sul loro panno centrale dei vasi viola e fuxia senz'acqua, ma con dentro ovviamente una rosa rossa rigorosamente di plastica. Mi ritengo una persona molto dolce, anche un po' avvezza alle tenerezze, ma ho delle difficoltà col termine "romantico". Ad altri le parole "amore", "dolcezza" e "tenerezza" fanno rabbrividire, ma magari comprano rose rosse standard. A me non piace "romantico". Ad ognuno il suo e chiedo profondamente scusa ai romantici, non me ne vogliate, sarà il risultato di qualche trauma liceale dovuto alla letteratura ottocentesca.<br>
       <br>
@@ -19,7 +23,10 @@
       Se ci pensate, l'algebra stessa non usa i numeri. La matematica pura usa simboli, come in "a+b=b+a". È quel "+" che mette in connessione "a" e "b". Una connessione chiamata addizione. Erano tanti i tipi di "connessioni". Alcune non aritmetiche, ma logiche, come "se a è vero, b è falso" o "a nega b".
       Quindi, prima ancora della "logica matematica di primo ordine" potevano anche non esserci i "freddi" numeri, ma non potevano, in nessun caso, non esserci le <i>relazioni</i>.
     </div><br><br><br><br><br><br>
-    <h1><a href="1.html" style="text-decoration: none;"><</a> <a href="3.html" style="text-decoration: none;">></a></h1>
+    <h1>
+      <nuxt-link to="/piccolomanuale/1" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/3" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <h5><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA International License</a></h5>
   </b-container>
 <template>

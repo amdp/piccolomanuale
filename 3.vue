@@ -1,6 +1,10 @@
 <template>
   <b-container>
     <h1>III Cooperazione: primi dubbi</h1><br><br><br>
+    <h1>
+      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <div style="margin-left: 20%; margin-right: 20%; width: 60%; text-align: justify; font-size: 18;">
       Va bene, va bene, ho capito. Già non ne potete più. Ma quando si inizia? Che razza di manuale è? Ma questo chi si crede di essere? Ha pure uno stile totalmente folle! Fa battute, poi parla di cose senza senso, a livello scientifico non è per nulla rigoroso! Che libro idiota!<br>
       <br> 
@@ -32,7 +36,10 @@
       <br>
       Spero finalmente di non poter essere accusato di aver menato troppo il can per l'aia, come si diceva in italiano un tempo. Semplicemente, spero di essere stato meno tedioso con le premesse e di avervi iniziato ad interessare. Pensateci. Sono questioni su cui ci confronteremo ancora, quelle di questo capitolo. Il viaggio è già iniziato, il mondo nuovo ci appare strano e inconsueto, eppure forse già vediamo qualcosa degno di nota.
     </div><br><br><br><br><br><br>
-    <h1><a href="2.html" style="text-decoration: none;"><</a> <a href="4.html" style="text-decoration: none;">></a></h1>
+    <h1>
+      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none;">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none;">></nuxt-link>
+    </h1>
     <h5><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA International License</a></h5>
   </b-container>
 <template>
