@@ -1,24 +1,12 @@
 <template>
-  <b-container>
-    <h1>I Esistenza</h1>
+  <b-container class="text-center">
     <br /><br /><br />
+    <h1>I Esistenza</h1>
     <h1>
-      <nuxt-link to="/piccolomanuale/title" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/2">></nuxt-link>
     </h1>
-    <div
-      style="
-        margin-left: 25%;
-        margin-right: 25%;
-        width: 50%;
-        text-align: justify;
-        font-size: 18;
-      "
-    >
+    <b-container class="t18 text-justify">
       La cooperazione è un fenomeno molto complesso.<br />
       Per poter capire di che cosa si tratta, bisognerà partire dalla radice più
       profonda dell'essere.<br />
@@ -52,9 +40,9 @@
       una domanda, quella domanda che ci farebbe un bambino, se non proprio
       nostra figlia o nostro figlio. Una domanda che probabilmente da bambini ci
       siamo fatti anche noi:<br />
-      <div style="text-align: center">
+      <b-container class="text-center">
         "Mamma, papà, che cosa viene prima di ogni cosa?"
-      </div>
+      </b-container>
       <br />
       Questa è la domanda fondamentale. Si, si, lo so, alcuni di voi vorrebbero
       argomentare che questo è un ragionamento lineare, che l'universo potrebbe
@@ -149,20 +137,16 @@
       Strano a dirsi, ma anche di questo vi sarò eternamente grato.
       <br />
       <p style="text-align: right">Alessandro Merletti De Palo</p>
-    </div>
+    </b-container>
     <br /><br /><br />
     <h1>
-      <nuxt-link to="/piccolomanuale/title" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/title">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/2">></nuxt-link>
     </h1>
     <h5>
-      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-        >Creative Commons BY-NC-SA International License</a
-      >
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+        Creative Commons BY-NC-SA International License
+      </a>
     </h5>
   </b-container>
 </template>

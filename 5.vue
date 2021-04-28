@@ -1,24 +1,12 @@
 <template>
-  <b-container>
-    <h1>V Umani</h1>
+  <b-container class="text-center">
     <br /><br /><br />
+    <h1>V Umani</h1>
     <h1>
-      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/6" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/4">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/6">></nuxt-link>
     </h1>
-    <div
-      style="
-        margin-left: 20%;
-        margin-right: 20%;
-        width: 60%;
-        text-align: justify;
-        font-size: 18;
-      "
-    >
+    <b-container class="t18 text-justify">
       Fermiamoci un attimo. Le premesse fatte son tante, è il momento di parlare
       di noi umani.<br />
       Chi siamo?<br />
@@ -147,15 +135,11 @@
       dell'esistenza dell'esistenza. Le cose che non avranno nome Ti sdraierai
       rilassato e penserai. E quando penserai, noterai che il tuo pensiero
       parla. Riesci a pensare a qualcosa senza nominarlo?
-    </div>
+    </b-container>
     <br /><br /><br /><br /><br /><br />
     <h1>
-      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/6" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/4">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/6">></nuxt-link>
     </h1>
     <h5>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"

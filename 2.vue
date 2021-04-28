@@ -1,24 +1,12 @@
 <template>
-  <b-container>
-    <h1>II Relazioni</h1>
+  <b-container class="text-center">
     <br /><br /><br />
+    <h1>II Relazioni</h1>
     <h1>
-      <nuxt-link to="/piccolomanuale/1" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/3" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/1">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/3">></nuxt-link>
     </h1>
-    <div
-      style="
-        margin-left: 20%;
-        margin-right: 20%;
-        width: 60%;
-        text-align: justify;
-        font-size: 18;
-      "
-    >
+    <b-container class="t18 text-justify">
       Questo capitolo piacerà molto alle persone "sensibili" o a quelle che oggi
       vengono dette "connesse al femminile", anche se a questo punto
       rivendicherei volentieri di essere maschio, maschile, "connesso al
@@ -96,15 +84,11 @@
       nega b". Quindi, prima ancora della "logica matematica di primo ordine"
       potevano anche non esserci i "freddi" numeri, ma non potevano, in nessun
       caso, non esserci le <i>relazioni</i>.
-    </div>
+    </b-container>
     <br /><br /><br /><br /><br /><br />
     <h1>
-      <nuxt-link to="/piccolomanuale/1" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/3" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/1">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/3">></nuxt-link>
     </h1>
     <h5>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"

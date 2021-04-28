@@ -1,24 +1,12 @@
 <template>
-  <b-container>
-    <h1>III Cooperazione: primi dubbi</h1>
+  <b-container class="text-center">
     <br /><br /><br />
+    <h1>III Cooperazione: primi dubbi</h1>
     <h1>
-      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/2">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/4">></nuxt-link>
     </h1>
-    <div
-      style="
-        margin-left: 20%;
-        margin-right: 20%;
-        width: 60%;
-        text-align: justify;
-        font-size: 18;
-      "
-    >
+    <b-container class="t18 text-justify">
       Va bene, va bene, ho capito. Già non ne potete più. Ma quando si inizia?
       Che razza di manuale è? Ma questo chi si crede di essere? Ha pure uno
       stile totalmente folle! Fa battute, poi parla di cose senza senso, a
@@ -88,15 +76,11 @@
       quelle di questo capitolo. Il viaggio è già iniziato, il mondo nuovo ci
       appare strano e inconsueto, eppure forse già vediamo qualcosa degno di
       nota.
-    </div>
+    </b-container>
     <br /><br /><br /><br /><br /><br />
     <h1>
-      <nuxt-link to="/piccolomanuale/2" style="text-decoration: none"
-        >></nuxt-link
-      >
-      <nuxt-link to="/piccolomanuale/4" style="text-decoration: none"
-        >></nuxt-link
-      >
+      <nuxt-link to="/piccolomanuale/2">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/4">></nuxt-link>
     </h1>
     <h5>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
