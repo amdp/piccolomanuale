@@ -7,18 +7,23 @@
       <nuxt-link to="/piccolomanuale/5">></nuxt-link>
     </h1>
     <b-container class="t18 text-justify">
-      La diversità. Tema che diventa sempre più attuale. Per iniziare,
-      stabiliamo le due leggi fondamentali della diversità:<br />
-      <br />
-      10 Per qualsiasi parte in cui può essere suddivisa o semplicemente
-      "osservata" una cosa, avremo sempre qualcosa di diverso, fosse anche il
-      fatto che le due "parti", nonostante siano perfettamente identiche, magari
-      risiedono in due posti diversi.<br />
-      <br />
-      11 Per qualsiasi parte in cui può essere suddivisa o semplicemente
-      "osservata" una cosa, avremo sempre qualcosa di simile, fosse anche il
-      fatto che le due "parti", nonostante siano completamente diverse, si
-      trovino comunque in quella cosa.<br />
+      La diversità. Tema che diventa sempre più attuale. Mettiamo un attimo da
+      parte la cooperazione lasciando sedimentare le differenze tra
+      cooperazione, collusione e collaborazione. Impariamo qualcosa di tecnico
+      sulla diversità. Stabiliamo le sue due leggi fondamentali:<br />
+      <br /><i>
+        10 Per qualsiasi parte in cui può essere suddivisa o semplicemente
+        "osservata" una cosa, avremo sempre qualcosa di diverso, fosse anche il
+        fatto che le due "parti" in cui abbiamo suddiviso ciò che osserviamo,
+        nonostante siano perfettamente identiche, magari risiedono in due posti
+        diversi. </i
+      ><br />
+      <br /><i>
+        11 Per qualsiasi parte in cui può essere suddivisa o semplicemente
+        "osservata" una cosa, avremo sempre qualcosa di simile, fosse anche il
+        fatto che le due "parti", nonostante siano completamente diverse, si
+        trovino comunque in quella cosa.</i
+      ><br />
       <br />
       Ma di che parla? Son tutti complicati questi capitoli! Prendete allora due
       persone: anche se sono molto, molto simili, avranno sempre qualcosa di

@@ -3,18 +3,23 @@
     <br /><br /><br />
     <h1>I Esistenza</h1>
     <h1>
-      <nuxt-link to="/piccolomanuale/">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/0">&lt;</nuxt-link>
       <nuxt-link to="/piccolomanuale/2">></nuxt-link>
     </h1>
     <b-container class="t18 text-justify">
       La cooperazione è un fenomeno molto complesso.<br />
       Per poter capire di che cosa si tratta, bisognerà partire dalla radice più
-      profonda dell'essere.<br />
+      profonda dell'essere. Questa indagine però è molto tecnica, quindi vi
+      consiglio di saltare questo primo piccolo capitolo, che è scritto in
+      lineare C, una lingua particolare dell'antica Creta che non esiste, e di
+      andare avanti.<br />
       <br />
-      Probabilmente è meno complesso scoprire come si muove una gigantesca
-      stella rispetto a come far cambiare idea ad un umano che si è impuntato
-      sulla sua posizione. Converrete che sebbene "sembri" assurdo, ci risulti
-      totalmente normale secondo il nostro senso comune. Sul perché, ci
+      In lineare C, si parla di cose saltando su vari piani, dall'assoluto alle
+      cose concrete e quotidiane. Prendiamo la comunicazione umana e la
+      cooperazione. Probabilmente è meno complesso scoprire come si muove una
+      gigantesca stella rispetto a come far cambiare idea ad un umano che si è
+      impuntato sulla sua posizione. Converrete che sebbene "sembri" assurdo, ci
+      risulti totalmente normale secondo il nostro senso comune. Sul perché, ci
       torneremo. Basti dire per ora che la stella segue delle leggi appartenenti
       alla fisica e la persona segue teoricamente la sua volontà umana, una
       volontà che a volte consideriamo imprevista, se non imprevedibile. <br />
@@ -140,7 +145,7 @@
     </b-container>
     <br /><br /><br />
     <h1>
-      <nuxt-link to="/piccolomanuale/title">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/0">&lt;</nuxt-link>
       <nuxt-link to="/piccolomanuale/2">></nuxt-link>
     </h1>
     <h5>
