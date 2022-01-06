@@ -7,10 +7,6 @@
       <nuxt-link to="/piccolomanuale/3">></nuxt-link>
     </h1>
     <b-container class="t18 text-justify">
-      Anche questo capitolo è alquanto tecnico. Forse meno del primo, ma è
-      sempre scritto in lineare C. Come per il precedente, saltatelo, tornateci
-      ogni tanto, o se proprio lo volete leggere, appena vi stufate andate
-      avanti.<br />
       Questo capitolo piacerà molto alle persone "sensibili" o a quelle che oggi
       vengono dette "connesse al femminile", anche se a questo punto
       rivendicherei volentieri di essere maschio, maschile, "connesso al

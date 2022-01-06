@@ -6,7 +6,7 @@
     <h2>a Cura di Alessandro Merletti De Palo</h2>
     <br /><br /><br /><br /><br /><br />
     <h1>
-      <nuxt-link to="/piccolomanuale/1">></nuxt-link>
+      <nuxt-link to="/piccolomanuale/0">></nuxt-link>
     </h1>
     <h5>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">

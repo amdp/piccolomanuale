@@ -1,152 +1,126 @@
 <template>
   <b-container class="text-center">
     <br /><br /><br />
-    <h1>I Esistenza</h1>
+    <h1>Cooperazione</h1>
     <h1>
-      <nuxt-link to="/piccolomanuale/0">&lt;</nuxt-link>
-      <nuxt-link to="/piccolomanuale/2">></nuxt-link>
+      <nuxt-link to="/piccolomanuale">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/1">></nuxt-link>
     </h1>
     <b-container class="t18 text-justify">
-      La cooperazione è un fenomeno molto complesso.<br />
-      Per poter capire di che cosa si tratta, bisognerà partire dalla radice più
-      profonda dell'essere. Questa indagine però è molto tecnica, quindi vi
-      consiglio di saltare questo primo piccolo capitolo, che è scritto in
-      lineare C, una lingua particolare dell'antica Creta che non esiste, e di
-      andare avanti.<br />
+      La cooperazione è un fenomeno meraviglioso, ma molto complesso.<br />
+      Ha in sé tante attese, tante aspirazioni, tanti pregiudizi. Per fare un
+      esempio, tutti la esortano, ma se la si richiede, ci sente un po'
+      infastiditi dal fatto di doversi allineare a una sorta di ideale buonista
+      che non si è scelto e si dovrebbe fare per dovere civile. Questa idea
+      noiosa della cooperazione è quasi religiosa ed è lontanissima da ciò che
+      la cooperazione è quando avviene. La cooperazione è un ritrovo, una festa,
+      un incontrarsi in cui ognuno ha una sua identità riconoscibile e ci si
+      concatena tra diverse personalità rendendo la situazione divertente,
+      avvincente, speciale. Nel corso degli anni, questa parola sta diventando
+      sempre più importante, perché ci si sta rendendo conto che la
+      "competizione" non porta sempre grandi risultati. Vorrei però sfatare un
+      po' di miti a tal proposito.
       <br />
-      In lineare C, si parla di cose saltando su vari piani, dall'assoluto alle
-      cose concrete e quotidiane. Prendiamo la comunicazione umana e la
-      cooperazione. Probabilmente è meno complesso scoprire come si muove una
-      gigantesca stella rispetto a come far cambiare idea ad un umano che si è
-      impuntato sulla sua posizione. Converrete che sebbene "sembri" assurdo, ci
-      risulti totalmente normale secondo il nostro senso comune. Sul perché, ci
-      torneremo. Basti dire per ora che la stella segue delle leggi appartenenti
-      alla fisica e la persona segue teoricamente la sua volontà umana, una
-      volontà che a volte consideriamo imprevista, se non imprevedibile. <br />
-      <br />
-      Alla fin fine le stelle sono "sfere" di gas semplici. Noi umani siamo
-      "eco-zoo-sistemi" ambulanti che per miracolo non si sfaldano o non
-      esplodono rilasciando all'esterno ogni piccolo essere vivente ospite, ogni
-      organo, tessuto, liquido o materiale che portano dentro. Insomma, non si
-      capisce come mai non piombiamo giù e ci sfaldiamo come l'interno di un
-      uovo caduto per sbaglio a terra appena terminate le pulizie in cucina.<br />
-      <br />
-      Siamo estremamente complessi da soli, presi singolarmente. Figuriamoci due
-      di noi. Prendiamo poi l'umanità intera, fatta di una decina scarsa di
-      miliardi di individui. Un delirio.<br /><br />
-      Per questo motivo è necessario inserire un primo input filosofico. Il
-      mistero più profondo di questo Universo (d'ora in poi lo chiamerò Universo
-      ma chi vuole può leggere Multiverso) è l'origine dell'esistenza
-      dell'esistenza.<br />
-      <br />
-      Si lo so, già è difficile da leggere, figuriamoci da comprendere. Non va
-      capito subito, semplicemente pensiamoci solo un secondo.<br />
-      Qualora scoprissimo tutti i misteri dell'universo, ci rimarrebbe sempre
-      una domanda, quella domanda che ci farebbe un bambino, se non proprio
-      nostra figlia o nostro figlio. Una domanda che probabilmente da bambini ci
-      siamo fatti anche noi:<br />
-      <b-container class="text-center">
-        "Mamma, papà, che cosa viene prima di ogni cosa?"
-      </b-container>
-      <br />
-      Questa è la domanda fondamentale. Si, si, lo so, alcuni di voi vorrebbero
-      argomentare che questo è un ragionamento lineare, che l'universo potrebbe
-      essere ciclico, che non viene per forza una cosa prima dell'altra et
-      cetera. Va bene. Ma ora vi chiedo di tornare bambini e giocare con questa
-      domanda. O col concetto di niente. Già è difficile immaginare il niente,
-      no? Perché ci immaginiamo ad esempio un niente buio e nero e non invece
-      uno trasparente? Perché poi "buio"? Perché se non c'è niente allora è
-      "nero"? E se fosse incolore? Diciamo che è nero o scuro perché non c'è
-      neanche la luce, o solo perché noi umani abbiamo degli occhi? E se
-      avessimo solo le labbra? Che non-gusto avrebbe questo niente?<br />
-      <br />
-      Ora lasciamo da parte quel niente, che poi, già se "è", vuol dire che "non
-      è proprio niente", è già "qualcosa". Partiamo da quello che sappiamo: è
-      avvenuto il Big Bang, oppure un raggio di luce cosmica ha creato la
-      realtà, oppure Dio l'ha generato con immenso amore o al contrario, una
-      Divinità l'ha creato con grandissima rabbia per farci soffrire. O
-      qualsiasi altro mito o storiella che vogliate inventarvi. Sentitevi
-      liberi, qui, di essere fedeli a qualsiasi vostra teoria.<br />
-      <br />
-      Fatto sta, che "siamo". L'Universo, per noi "è".<br />
-      Dai, giochiamo. Proviamo ad accendere e spegnere.<br />
-      <br />
-      Niente, buio totale, poi improvisamente Universo. Buio, poi Universo. Buio
-      di nuovo... tieni il buio, tieni il buio... bam! Accendi l'Universo.
-      Ancora una volta. Niente, Universo. Spegni tutto, accendi. Off, On. On,
-      Off. Start, stop. True and False. 0, 1.<br />
-      <br />
-      Bene, ora che vi siete allenati ad andare dal buio pesto, o dal
-      trasparente sul "niente" a miliardi di galassie con stramiliardi di stelle
-      con ultramiliardi di pianeti tra cui alcuni con svariati miliardi di
-      esseri senzienti come nel nostro pianeta, tornate un attimo a "Off".<br />
-      <br />
-      Spegniamo tutto. Questo stato di "spegnezza" ancora "è". Esiste nella
-      nostra mente, lo stiamo immaginando. è niente, è vuoto, ma per noi in un
-      certo senso ancora "è".<br />
-      Immaginiamo adesso qualcosa che fa parte di un "prima" o semplicemente uno
-      "stato" in cui non c'è neanche "Off".<br />
-      <br />
-      Ecco. Ora non esiste nulla. Tra l'altro, mi direte, c'è una bella calma e
-      un discreto silenzio.<br />
-      Bello, ma dobbiamo andare avanti (o indietro!). Dobbiamo andare in uno
-      stato in cui non possiamo neanche dire "c'è". Perché appena dici anche
-      soltanto "non esiste nulla", già ti sei fregato. Presuppone un esistere e
-      un non esistere.<br />
-      Perciò ora "andiamo" in uno stato in cui non puoi neanche dire "non esiste
-      nulla", perché non esiste l'esistenza, quindi non ha senso dirlo.<br />
-      Non-siete in un non-stato in cui non esiste l'esistenza.<br />
-      <br />
-      Bella sensazione eh? Non esiste nulla, nulla di cui preoccuparsi. Okay,
-      bene, ora rimettiamo l'esistenza e la non esistenza. Possiamo dire adesso
-      che dopo "quello stato in cui non esisteva l'esistenza" si è passati al
-      poter "dire" che qualcosa esiste e qualcosa non esiste. Seguitemi un
-      attimo su questa follia.<br />
-      <br />
-      è stato premuto il tasto On, qualsiasi cosa può succedere ora, perché
-      esiste l'esistenza.<br />
-      <br />
-      Quindi il mistero base è già questo. Come si è passati da uno stato in cui
-      non esisteva neanche l'esistenza ad uno in cui qualcosa "era"? Da questa
-      radice de "Il grande mistero dell'esistenza dell'esistenza" che suona come
-      una grandissima "turboputtanata" partirà il nostro viaggio alla scoperta
-      di cos'è la "cooperazione".<br />
-      <br />
-      Fidatevi, era necessario. Lo capirete pian piano. Tipo l'allenamento
-      prepartita, il pilates, la prepugilistica.<br />
-      La cooperazione è per i coraggiosi. Per capire cos'è, non dovrete
-      rischiare solo la vostra vita -e lo farete, ah se lo farete, quando
-      parleremo di genetica!- ma dovrete essere pronti a molto di più.<br />
-      <br />
-      Dovrete essere pronti a rischiare la vostra stessa <i>esistenza</i>.<br />
-      O ancora meglio, dovrete essere pronti a rischiare l'<i>esistenza</i>
-      stessa.<br />
-      <br />
-
-      <h4>Nota:</h4>
-      Questo piccolo manuale sulla cooperazione è scritto da una persona
-      ignorante, parziale, umana, limitata e probabilmente poco umile. Forse,
-      tra i pro, abbiamo buoni propositi e grande dedizione, anche se a fronte
-      di scarse capacità.<br />
-      In sintesi, sebbene i tentati atti di umiltà siano stati molti, a quanto
-      pare non sono serviti a granché. Ogni umano è parziale, è solo una parte
-      in un grande insieme chiamato da noi umani Universo (che come dicevo per
-      alcuni non è Uni ma è Multi-verso). Leggete queste pagine, ascoltate
-      queste parole prendendole con scetticità, dubbio, mettendole continuamente
-      in discussione. Aggreditele, datemi pure dell'idiota o del fautore di una
-      chissà quale pseudoscienza o del complottista. Testate ogni cosa esposta,
-      ogni allusione, ogni invenzione e cambiatela, anche negli anni a venire,
-      registrando però tutte le modifiche, di modo che questo libro abbia una
-      vita, degli amici, cresca e si trasformi nell'ambiente come avviene per
-      noi umani. Forse un giorno lo cancellerete e morirà.<br />
-      Strano a dirsi, ma anche di questo vi sarò eternamente grato.
+      La cooperazione non è del tutto "acompetitiva" a seconda di che cosa si
+      intende con competizione. Inoltre viene spesso associata al comunismo e
+      alla sinistra e all'anticapitalismo. Questi sono entrambi pregiudizi che
+      non hanno gran ché a che vedere con la realtà.<br />
+      Semplificando in maniera eccessiva, la cooperazione non può avere in sé
+      salari identici o omologazioni di beni, divise, o altro piattume culturale
+      di qualsiasi tipo, sia esso capitalistico, comunista, o di regime. Questo
+      perché l'assunto di partenza stesso della scienza della cooperazione è che
+      siamo diversi e abbiamo diverse preferenze. Sarebbe come invitare a una
+      grande cena cinque famiglie e dar loro da mangiare la stessa quantità di
+      cibo, a neonati, bambini, adulti, anziani, uomini, donne, sportivi etc. o
+      come se dovessimo dare la stessa quantità di acqua a tutte le piante di un
+      giardino. Anche se avessimo le stesse preferenze, non a tutti fa bene la
+      stessa quantità.<br />
+      Rispetto ad avere gli stessi diritti, il concetto di legge, diritti e
+      causa legale, sono delle dinamiche in cui bisogna vincere l'altro, poco
+      consone all'approccio della scienza della cooperazione. I diritti non sono
+      gli stessi, infatti un disabile ha diritti diversi da un giudice, entrambi
+      limitati in modo diverso e potenziati in altri. Oggi si paga un proprio
+      avvocato per fare causa contro un'altra persona, mentre si dovrebbe pagare
+      insieme un avvocato per far conciliare le parti, un po' come fanno le
+      coppie in terapia. In questo caso è vero che la competizione "non fa
+      bene". Se l'avvocato conciliatore fa perdere tempo ad entrambe le parti,
+      queste andranno addirittura d'accordo nel volerlo cambiare. Capite bene
+      che un cambio d'approccio che non è "vinci-perdi" potrebbe addirittura
+      snellire l'intero apparato giudiziario.<br />
+      Ma se pensiamo alla nostra mente o alla scienza fatta bene, vediamo che un
+      tipo particolare di "competizione" fa benissimo. Ad esempio, vi svegliate
+      e avete fame. Avete bisogno di zuccheri e di una sensazione fresca, in
+      frigo c'è dell'ottimo stracchino, una squisita lasagna del giorno prima,
+      del latte e un'arancia. Chiaramente, sceglierete l'arancia, che ha
+      zuccheri ed è fresca, ma non è che avete fatto un torto alle altre cose da
+      mangiare. Poi dovete andare a correre e ci sono due parchi, uno pieno di
+      piante floreali, l'altro di alberi sempreverdi. Ci pensate su, è inverno,
+      non ci saranno fiori, scegliete gli alberi sempreverdi. Dentro di noi,
+      prima di fare una scelta e una volta che la scelta è stata fatta, c'è
+      stato un processo di valutazione e di verifica rispetto alle nostre
+      preferenze. Scegliere significa lasciarsi dietro un possibile universo, ce
+      l'ha insegnato il film sliding doors. Ma scegliere significa far
+      competere? In scienza si sceglie in base ad un metodo e questo ha permesso
+      progressi inimmaginabili, innovazione, salvaguardia di vite umane. Questo
+      non toglie che il sistema accademico abbia invece degli enormi problemi
+      causati dalla fortissima competizione, il primo tra tutti è a mio parere
+      la sovraproduzione di articoli scientifici parziali che andranno poi un
+      giorno sintetizzati, ma che fanno perdere le idee buone e innovative
+      all'interno di tante idee ripetute.<br />
+      La cooperazione è una proprietà emergente di un sistema sociale, un po'
+      come un equilibrio ecologico. Un sistema sociale o naturale è de facto
+      "competitivo" se pensiamo che vanno fatte delle scelte. Le risorse possono
+      essere abbondanti, ma le preferenze individuali magari le rendono scarse,
+      a meno che non ci si accordi. Ma allora qual è la differenza tra fare una
+      scelta ed essere competitivi?<br />
+      Come vedremo, il discorso sulla scelta riguarda la difficoltà nello
+      scegliere insieme. È faticoso e non siamo abituati a farlo. Serve
+      un'educazione a riguardo, un'abitudine a coordinarsi.<br />
+      Sulla competizione invece, quando l'egoismo supera il livello oltre il
+      quale essere egoisti ci fa ricevere meno beneficio rispetto a quello che
+      avremmo avuto non essendo egoisti... In sintesi, la cooperazione è uno
+      stato di un sistema sociale in cui "succede" che le persone vanno meglio
+      d'accordo e sono tendenzialmente più soddisfatte. Come mai "succede"? C'è
+      una ricetta? Si e no. C'è un manuale di giardinaggio direi, spero lo
+      abbiate davanti agli occhi.<br />
+      Un'altro stereotipo è che con la cooperazione la gente si vuole più bene.
+      Diventa più altruista, il mondo diventa meraviglioso. Che esista una
+      "corretta" cooperazione, come una volta scrisse una giornalista dopo
+      un'intervista con me. Non c'è un codice da seguire, un coo-galateo che
+      impostato come una formula matematica produca la cooperazione come in una
+      catena di montaggio o una serata elegante in cui vestirsi "a modo". Non
+      c'è perché l'individuo è libero, quando segue le regolette si atrofizza e
+      forzarlo a una "corretta" cooperazione va contro un'altro dei pilastri
+      della cooperazione che è la libertà di scegliere e valutare. E no, il
+      mondo non diventa meraviglioso. Il mondo rimane difficile, bellissimo, ma
+      avvincente proprio perché gli equilibri sono fragili. E l'altruismo è
+      molto pericoloso. Egoismo ed altruismo, dal punto di vista della scienza
+      della cooperazione, sono due tendenze che rendono instabile il sistema.<br />
+      Molti amanti del capitalismo dicono che siamo tutti egoisti, e che
+      l'altruismo è che a qualcuno "piace" far del bene agli altri, un "piacere"
+      egoistico. È una vecchia storiella che lascia il tempo che trova. Vedremo
+      anche perché. Il problema è che competizione e capitalismo, nel loro
+      evolvere, tendono alla cooperazione. Fu una ragazza molto intelligente di
+      nome Sara a dirlo per prima mentre ragionavamo insieme. Lo stiamo vedendo
+      anche in questi anni. Il mercato sta tendendo a una migliore distribuzione
+      a livello di valori e di possibilità di scelta, a fronte però di una
+      peggiore distribuzione a livello di risorse. Distribuzione. Parola
+      importantissima, fondamentale nella scienza della cooperazione. E quindi?
+      La cooperazione è l'arte dello star bene insieme, ed è un'arte molto
+      difficile perché presuppone l'arte di saper
+      <i>decidere insieme</i>. Decidere insieme è super difficile. Far le cose
+      da soli o decidere come vanno fatte le cose individualmente è facilissimo
+      invece. Non è una battaglia tra altruismo ed egoismo. È un coordinamento
+      di tante e diverse preferenze. Come dieci pittori che dipingono sullo
+      stesso quadro. Non a caso l'arte è carente di tali collettivi. Decidere
+      insieme, questa è la nostra avventura. Iniziamo?
       <br />
       <p style="text-align: right">Alessandro Merletti De Palo</p>
     </b-container>
     <br /><br /><br />
     <h1>
-      <nuxt-link to="/piccolomanuale/0">&lt;</nuxt-link>
-      <nuxt-link to="/piccolomanuale/2">></nuxt-link>
+      <nuxt-link to="/piccolomanuale">&lt;</nuxt-link>
+      <nuxt-link to="/piccolomanuale/1">></nuxt-link>
     </h1>
     <h5>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
