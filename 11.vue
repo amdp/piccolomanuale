@@ -1,7 +1,7 @@
 <template>
   <b-container class="text-center">
     <br /><br /><br />
-    <h1>I Esistenza</h1>
+    <h1>Appendice I Esistenza</h1>
     <h1>
       <nuxt-link to="/piccolomanuale/0">&lt;</nuxt-link>
       <nuxt-link to="/piccolomanuale/2">></nuxt-link>
